@@ -1,2 +1,2 @@
 # Pandas
-There are a few profects using Pandas
+There are a few projects using Pandas
